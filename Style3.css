@@ -1,0 +1,40 @@
+Body{
+    background-color:#F5F5F5;
+
+}
+h1{
+    font-size: 60px;
+}
+span{
+    color:royalblue
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+
+}
+
+#Swag{
+    width: 385px;
+    height: 435px;
+    background-color:white;
+    border-radius: 20px;
+    
+   
+}
+#Networking{
+    width: 385px;
+    height: 435px;
+    background-color:white;
+    border-radius: 20px;
+    
+}
+#Rewards{
+    width: 385px;
+    height: 435px;
+    background-color:white;
+    border-radius: 20px;
+   
+}
